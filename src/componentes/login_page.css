@@ -1,0 +1,37 @@
+.estilo-nombre{
+    font-size: 30px;
+    font-family: 'Lato';
+    font-weight: bold;
+    height: 150px;
+    width: 100%;
+}
+
+.contenido-centrado{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+img{
+    width: 15%;
+    height: 15%;
+}
+
+.estilo-label{
+
+    display: inline-block;
+    width: 120px;
+    padding: 5px 0px;
+
+}
+
+input[type=submit]{
+
+    background-color: #4FD053;
+    color: #000;
+    width: 100%;
+    height: 50px;
+
+}
