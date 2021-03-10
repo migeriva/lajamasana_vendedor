@@ -1,0 +1,72 @@
+/* Centrado del contenido */
+.contenido-centrado{
+
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    padding: 30px;
+
+}
+
+/* Titulos */
+.title-style{
+    height: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+/* Inputs */
+.input-style{
+
+    border: 2px solid #77D353;
+    height: 40px;
+    font-size: 15px;
+    font-style: italic;
+    color: gray;
+    outline: none;
+    text-align: center;
+    width: 100%;
+    margin: 15px 0px;
+
+}
+
+.input-style:focus{
+    border: 2px solid #77D353;
+}
+
+input[type=submit] {
+
+    width: 50%;
+    height: 40px;
+    margin-left: 25%;
+    background-color: #77D353;
+    border: 2px solid #77D353;
+    font-size: 15px;
+    font-style: italic;
+}
+
+
+/* Label */
+
+.label-style{
+
+    font-size: 20px;
+    color: gray;
+    font-weight: bold;
+    font-style: italic;
+
+} 
+
+/* Logo */
+img{
+    width: 40%;
+    height: 40%;
+}
+
