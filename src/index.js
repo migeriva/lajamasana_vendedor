@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Login from './componentes/login_page';
+import Login from './componentes/componentes_login/login_page';
 
 ReactDOM.render(
   <React.StrictMode>
