@@ -16,11 +16,15 @@ You will also see any lint errors in the console.
 
 ### `npm install`
 
-Para instalar los modulos necesarios para correr la aplicacion
+Para instalar los modulos necesarios para correr la aplicacion.
 
 ### `npm install react-router-dom`
 
-Para poder usar las rutas
+Para poder usar las rutas.
+
+### `npm install md5 universal-cookie `
+
+Md5 para encriptar las contraseñas y universal-cookie para usar cookies en el inicio de sesion.
 
 <!-- ### `npm test`
 
